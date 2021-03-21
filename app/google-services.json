@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488959689394",
+    "project_id": "database-001-50201",
+    "storage_bucket": "database-001-50201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488959689394:android:cf052dbc12c9beb4ddffab",
+        "android_client_info": {
+          "package_name": "com.hind.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488959689394-qalb1v5u5j53085hr7607f82q639r5a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKkmngVhQoT8NEvmJguI0bF2K-MwIzU6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488959689394-qalb1v5u5j53085hr7607f82q639r5a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
